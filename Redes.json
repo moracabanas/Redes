@@ -119,12 +119,14 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [
-                        "paste-86955f743c5010be84b433e70dec49bdaa124418.jpg",
                         "paste-0bf85786512d94296eb5fee719855b805bd61969.jpg",
                         "paste-a8d7e397caa38832ffbf4949f94cd510aeb47879.jpg",
+                        "paste-394cd51a7d41edc204534ffb5205b713ecdb5358.jpg",
                         "paste-c2c49e433e7897792204aee8d35cbc4d94f1baeb.jpg",
+                        "paste-86955f743c5010be84b433e70dec49bdaa124418.jpg",
+                        "paste-dacdcdf165b760d12842fb25d466d491c00151c9.jpg",
                         "paste-f2f94b79386b58c71386ec63c10ceb74262ccbe7.jpg",
-                        "paste-dacdcdf165b760d12842fb25d466d491c00151c9.jpg"
+                        "paste-4ab58106d8f849349da9f5cb819969b0ef911103.jpg"
                     ],
                     "name": "10.LAN cableadas: Ethernet (Cap13)",
                     "notes": [
@@ -307,6 +309,19 @@
                             ],
                             "flags": 0,
                             "guid": "NmQ<wN`exH",
+                            "note_model_uuid": "40a3d570-152c-11e9-bb69-d0509930f541",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Redes<div>3.Capa de Enlace</div><div>10.LAN cableadas: Ethernet (Cap13)</div>",
+                                "<div><div><b>ESTANDAR ETHERNET: Subnivel MAC</b></div><div><b><br></b></div>Enumera y describe el <u>Método de acceso: CSMA/CD&nbsp;</u>del&nbsp;<font color=\"#53bbcb\">subnivel MAC</font>(Contról de enlace lógico)&nbsp;sobre&nbsp;<u>Ethernet</u>&nbsp;</div>",
+                                "- La Ethernet estándar usa CSMA/CD <b><font color=\"#4296a3\">persistente</font></b>.<div><br><div>- <font color=\"#4296a3\"><b>Tiempo de rodaja</b></font>:&nbsp;</div><div>o Tiempo de vuelta + tiempo necesario para enviar secuencia de atasco (jam).&nbsp;</div><div>o Este tiempo se mide en bits y es el tiempo necesario para que una estación envíe 64 bytes (512 bits).&nbsp;</div><div><br></div><div>- <font color=\"#4296a3\"><b>Tiempo de rodaja y colisión</b></font>: (véase cap. 10).</div><div><br></div><div>- <font color=\"#4296a3\"><b>Tiempo de rodaja y longitud máxima de la red (dominio de la colisión)</b></font>:&nbsp;</div><div>&nbsp;<img src=\"paste-4ab58106d8f849349da9f5cb819969b0ef911103.jpg\"></div><div>&nbsp; Donde:</div><div><img src=\"paste-394cd51a7d41edc204534ffb5205b713ecdb5358.jpg\"></div><div><br></div><div>&nbsp;o Considerando los tiempos de retraso en repetidores e interfaces y el tiempo necesario para enviar la señal de atasco, la longitud máxima es de 2500 m.<br></div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "lxMqS({~e-",
                             "note_model_uuid": "40a3d570-152c-11e9-bb69-d0509930f541",
                             "tags": []
                         }
